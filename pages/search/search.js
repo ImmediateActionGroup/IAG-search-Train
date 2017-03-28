@@ -9,7 +9,7 @@ Page({
     })
   },
   resultViewTap:function(){
-     wx.navigateTo({
+     wx.redirectTo({
       url: '../result/result'
     })
   }
