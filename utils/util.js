@@ -16,6 +16,16 @@ function formatNumber(n) {
   return n[1] ? n : '0' + n
 }
 
+var getconfig = {
+  "pages": {
+    index: "/pages/index/index",
+    logs: "/pages/logs/logs",
+    search: "/pages/search/search",
+    result: "/pages/result/result"
+  }
+}
+
 module.exports = {
-  formatTime: formatTime
+  formatTime: formatTime,
+  getconfig: getconfig
 }
