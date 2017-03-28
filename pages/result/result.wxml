@@ -1,0 +1,191 @@
+
+<!--result.wxml-->
+<view class="container-2">
+  <text class="nav-title-0">查询结果</text>
+  <text class="nav-title-1">以下是查询结果-数据来自12306官网</text>
+  <view class="ticket">
+    <text class="nav-title">始发站</text>
+    <text class="nav-title">乘车信息</text>
+    <text class="nav-title">目的地</text>
+    <text class="nav-title">其他</text>
+  </view>
+  <view class="ticket">
+    <view class="ticket-box">
+      <text class="ticket-palce">南京</text>
+      <text class="ticket-time">12:39</text>
+      <text class="ticket-count">软卧：145</text>
+    </view>
+    <view class="ticket-box">
+      <text class="ticket-number">K1254</text>
+      <text class="ticket-durtime">03小时28分</text>
+      <text class="ticket-count">硬卧：235</text>
+    </view>
+    <view class="ticket-box">
+      <text class="ticket-palce">上海</text>
+      <text class="ticket-time">12:39</text>
+      <text class="ticket-count">硬座：487</text>
+    </view>
+    <view class="ticket-box">
+      <text class="ticket-site">官网购买</text>
+      <text class="ticket-time">--</text>
+      <text class="ticket-count">无座：100</text>
+    </view>
+  </view>
+  <view class="ticket">
+    <view class="ticket-box">
+      <text class="ticket-palce">南京</text>
+      <text class="ticket-time">12:39</text>
+      <text class="ticket-count">软卧：145</text>
+    </view>
+    <view class="ticket-box">
+      <text class="ticket-number">K1254</text>
+      <text class="ticket-durtime">03小时28分</text>
+      <text class="ticket-count">硬卧：235</text>
+    </view>
+    <view class="ticket-box">
+      <text class="ticket-palce">上海</text>
+      <text class="ticket-time">12:39</text>
+      <text class="ticket-count">硬座：487</text>
+    </view>
+    <view class="ticket-box">
+      <text class="ticket-site">官网购买</text>
+      <text class="ticket-time">--</text>
+      <text class="ticket-count">无座：100</text>
+    </view>
+  </view>
+  <view class="ticket">
+    <view class="ticket-box">
+      <text class="ticket-palce">南京</text>
+      <text class="ticket-time">12:39</text>
+      <text class="ticket-count">软卧：145</text>
+    </view>
+    <view class="ticket-box">
+      <text class="ticket-number">K1254</text>
+      <text class="ticket-durtime">03小时28分</text>
+      <text class="ticket-count">硬卧：235</text>
+    </view>
+    <view class="ticket-box">
+      <text class="ticket-palce">上海</text>
+      <text class="ticket-time">12:39</text>
+      <text class="ticket-count">硬座：487</text>
+    </view>
+    <view class="ticket-box">
+      <text class="ticket-site">官网购买</text>
+      <text class="ticket-time">--</text>
+      <text class="ticket-count">无座：100</text>
+    </view>
+  </view>
+  <view class="ticket">
+    <view class="ticket-box">
+      <text class="ticket-palce">南京</text>
+      <text class="ticket-time">12:39</text>
+      <text class="ticket-count">软卧：145</text>
+    </view>
+    <view class="ticket-box">
+      <text class="ticket-number">K1254</text>
+      <text class="ticket-durtime">03小时28分</text>
+      <text class="ticket-count">硬卧：235</text>
+    </view>
+    <view class="ticket-box">
+      <text class="ticket-palce">上海</text>
+      <text class="ticket-time">12:39</text>
+      <text class="ticket-count">硬座：487</text>
+    </view>
+    <view class="ticket-box">
+      <text class="ticket-site">官网购买</text>
+      <text class="ticket-time">--</text>
+      <text class="ticket-count">无座：100</text>
+    </view>
+  </view>
+  <view class="ticket">
+    <view class="ticket-box">
+      <text class="ticket-palce">南京</text>
+      <text class="ticket-time">12:39</text>
+      <text class="ticket-count">软卧：145</text>
+    </view>
+    <view class="ticket-box">
+      <text class="ticket-number">K1254</text>
+      <text class="ticket-durtime">03小时28分</text>
+      <text class="ticket-count">硬卧：235</text>
+    </view>
+    <view class="ticket-box">
+      <text class="ticket-palce">上海</text>
+      <text class="ticket-time">12:39</text>
+      <text class="ticket-count">硬座：487</text>
+    </view>
+    <view class="ticket-box">
+      <text class="ticket-site">官网购买</text>
+      <text class="ticket-time">--</text>
+      <text class="ticket-count">无座：100</text>
+    </view>
+  </view>
+  <view class="ticket">
+    <view class="ticket-box">
+      <text class="ticket-palce">南京</text>
+      <text class="ticket-time">12:39</text>
+      <text class="ticket-count">软卧：145</text>
+    </view>
+    <view class="ticket-box">
+      <text class="ticket-number">K1254</text>
+      <text class="ticket-durtime">03小时28分</text>
+      <text class="ticket-count">硬卧：235</text>
+    </view>
+    <view class="ticket-box">
+      <text class="ticket-palce">上海</text>
+      <text class="ticket-time">12:39</text>
+      <text class="ticket-count">硬座：487</text>
+    </view>
+    <view class="ticket-box">
+      <text class="ticket-site">官网购买</text>
+      <text class="ticket-time">--</text>
+      <text class="ticket-count">无座：100</text>
+    </view>
+  </view>
+  <view class="ticket">
+    <view class="ticket-box">
+      <text class="ticket-palce">南京</text>
+      <text class="ticket-time">12:39</text>
+      <text class="ticket-count">软卧：145</text>
+    </view>
+    <view class="ticket-box">
+      <text class="ticket-number">K1254</text>
+      <text class="ticket-durtime">03小时28分</text>
+      <text class="ticket-count">硬卧：235</text>
+    </view>
+    <view class="ticket-box">
+      <text class="ticket-palce">上海</text>
+      <text class="ticket-time">12:39</text>
+      <text class="ticket-count">硬座：487</text>
+    </view>
+    <view class="ticket-box">
+      <text class="ticket-site">官网购买</text>
+      <text class="ticket-time">--</text>
+      <text class="ticket-count">无座：100</text>
+    </view>
+  </view>
+  <view class="ticket">
+    <view class="ticket-box">
+      <text class="ticket-palce">南京</text>
+      <text class="ticket-time">12:39</text>
+      <text class="ticket-count">软卧：145</text>
+    </view>
+    <view class="ticket-box">
+      <text class="ticket-number">K1254</text>
+      <text class="ticket-durtime">03小时28分</text>
+      <text class="ticket-count">硬卧：235</text>
+    </view>
+    <view class="ticket-box">
+      <text class="ticket-palce">上海</text>
+      <text class="ticket-time">12:39</text>
+      <text class="ticket-count">硬座：487</text>
+    </view>
+    <view class="ticket-box">
+      <text class="ticket-site">官网购买</text>
+      <text class="ticket-time">--</text>
+      <text class="ticket-count">无座：100</text>
+    </view>
+  </view>
+  <view class="section">
+    <button type="primary" bindtap="backsearch" class="btn-search">返回查询</button>
+  </view>
+</view>

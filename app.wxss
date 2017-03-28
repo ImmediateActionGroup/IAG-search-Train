@@ -1,0 +1,68 @@
+/**app.wxss**/
+
+.container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding: 200rpx 0;
+  box-sizing: border-box;
+}
+
+.container-2 {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.section {
+  width: 100%;
+}
+.nav-title-0{
+  color: #319cee;
+  font-size: 24px;
+}
+.nav-title {
+  color: #319cee;
+}
+.nav-title-1{
+  font-size: 12px;
+  color: #ccc;
+  margin-bottom: 10px;
+}
+
+.start-input, .picker-input {
+  box-sizing: border-box;
+  border-bottom: 1px solid #319cee;
+  width: 100%;
+  padding: 0 10px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.btn-search {
+  font-size:16px;
+  margin-top: 30px;
+  width: 60%;
+  background-color: #319cee !important;
+}
+
+.btn-start {
+  width: 60%;
+  font-size:14px;
+  background-color: #319cee !important;
+}
+.ticket{
+  width: 90%;
+	background-color: #fff;
+	border-radius: 10px;
+	padding: 10px;
+	font-size: 14px;
+	margin-bottom: 10px;
+	box-shadow: 0px 0px 10px 0px #ccc;
+}

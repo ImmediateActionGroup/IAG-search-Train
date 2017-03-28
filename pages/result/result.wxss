@@ -1,0 +1,45 @@
+.ticket text {
+  display: block;
+  float: left;
+  width: 25%;
+  text-align: center;
+}
+
+.ticket-box {
+  float: left;
+  width: 24.7%;
+  border-right: 1px dashed #b9b8b8;
+}
+
+.ticket-box text {
+  display: block;
+  width: 100%;
+  text-align: center;
+  line-height: 16px;
+}
+
+.ticket-box:last-of-type {
+  border-right: none;
+}
+
+.ticket-palce {
+  color: #319cee;
+  font-weight: bold;
+}
+
+.ticket-time {
+  color: #ce5959;
+  font-size: 14px;
+}
+.ticket-durtime {
+  color: #ce5959;
+  font-size: 12px;
+}
+
+.ticket-count {
+  font-size: 12px;
+}
+.ticket-site{
+    font-size: 12px;
+    color: #6db068;
+}
