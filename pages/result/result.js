@@ -2,7 +2,7 @@
 Page({
   data:{},
   backsearch:function(){
-    wx.navigateTo({
+    wx.redirectTo({
       url: '../search/search'
     })
   }
